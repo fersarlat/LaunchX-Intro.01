@@ -1,3 +1,4 @@
+![buyer persona](https://user-images.githubusercontent.com/90058827/159104670-b0880897-c122-47e2-b026-31b47778769e.png)
 # LaunchX-Intro.01
 Entregables de la primera semana
 # Abogabot
