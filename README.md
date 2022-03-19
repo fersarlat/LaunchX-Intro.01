@@ -1,4 +1,4 @@
-![buyer persona](https://user-images.githubusercontent.com/90058827/159104670-b0880897-c122-47e2-b026-31b47778769e.png)
+
 # LaunchX-Intro.01
 Entregables de la primera semana
 # Abogabot
@@ -36,5 +36,5 @@ Ver pagos recibidos.
 7.	Pantalla para hacer modificaciones, agregar comentarios y solicitar nuevos pagos de las demandas en proceso
 8.	Crear documento legal en .docx automáticamente
 ## Buyer Persona
-
+![buyer persona](https://user-images.githubusercontent.com/90058827/159104670-b0880897-c122-47e2-b026-31b47778769e.png)
 
