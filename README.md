@@ -37,4 +37,6 @@ Ver pagos recibidos.
 8.	Crear documento legal en .docx automáticamente
 ## Buyer Persona
 ![buyer persona](https://user-images.githubusercontent.com/90058827/159104670-b0880897-c122-47e2-b026-31b47778769e.png)
+## User Experience
+![user experience](https://user-images.githubusercontent.com/90058827/159560266-55b6a75d-6014-4278-b151-bee77875ff03.png)
 
